@@ -1,3 +1,3 @@
-Line added to be pulled.
+Changed to check push without pull.
 lovin
 sdfsdf
