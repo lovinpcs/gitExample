@@ -1,3 +1,4 @@
+changed in master branch 
 changed by new branch
 Changed to check push without pull.
 lovin
